@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElvisBaj
+- 👋 Hi, I’m Elvis Bajrektarevic @ElvisBaj
 - 📚 First year CS student
 - 👀 I’m interested in ... web design/dev
 - 🌱 I’m currently learning ... Data Structures in C++
